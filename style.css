@@ -57,8 +57,8 @@ a {
 }
 
 .home .right .img img {
-  height: 250px;
-  width: 275px;
+  height: 330px;
+  width: 330px;
   border-radius: 100%;
   border: 5px solid yellow;
   animation-name: profile;
